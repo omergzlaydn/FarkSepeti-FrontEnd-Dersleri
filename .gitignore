@@ -1,0 +1,18 @@
+/ders01-js-react-giris/reactjs/node_modules
+/ders02-props-components/node_modules
+/ders03-hooks/node_modules
+/ders04-fetch/node_modules
+/ders05-redux-router/node_modules
+/ui-template/react-template/node_modules
+
+
+# production
+/ders01-js-react-giris/reactjs/build
+/ders02-props-components/build
+/ders03-hooks/build
+/ders04-fetch/build
+/ders05-redux-router/build
+/ui-template/react-template/build
+
+# testing
+/coverage
